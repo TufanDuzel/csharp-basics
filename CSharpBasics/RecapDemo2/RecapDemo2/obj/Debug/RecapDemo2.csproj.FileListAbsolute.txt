@@ -1,0 +1,7 @@
+C:\Users\tufan\OneDrive\Belgeler\csharp-basics\RecapDemo2\RecapDemo2\bin\Debug\RecapDemo2.exe.config
+C:\Users\tufan\OneDrive\Belgeler\csharp-basics\RecapDemo2\RecapDemo2\bin\Debug\RecapDemo2.exe
+C:\Users\tufan\OneDrive\Belgeler\csharp-basics\RecapDemo2\RecapDemo2\bin\Debug\RecapDemo2.pdb
+C:\Users\tufan\OneDrive\Belgeler\csharp-basics\RecapDemo2\RecapDemo2\obj\Debug\RecapDemo2.csproj.AssemblyReference.cache
+C:\Users\tufan\OneDrive\Belgeler\csharp-basics\RecapDemo2\RecapDemo2\obj\Debug\RecapDemo2.csproj.CoreCompileInputs.cache
+C:\Users\tufan\OneDrive\Belgeler\csharp-basics\RecapDemo2\RecapDemo2\obj\Debug\RecapDemo2.exe
+C:\Users\tufan\OneDrive\Belgeler\csharp-basics\RecapDemo2\RecapDemo2\obj\Debug\RecapDemo2.pdb
