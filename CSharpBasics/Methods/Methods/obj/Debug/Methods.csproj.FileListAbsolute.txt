@@ -1,0 +1,7 @@
+C:\Users\tufan\OneDrive\Belgeler\csharp-basics\Methods\Methods\bin\Debug\Methods.exe.config
+C:\Users\tufan\OneDrive\Belgeler\csharp-basics\Methods\Methods\bin\Debug\Methods.exe
+C:\Users\tufan\OneDrive\Belgeler\csharp-basics\Methods\Methods\bin\Debug\Methods.pdb
+C:\Users\tufan\OneDrive\Belgeler\csharp-basics\Methods\Methods\obj\Debug\Methods.csproj.AssemblyReference.cache
+C:\Users\tufan\OneDrive\Belgeler\csharp-basics\Methods\Methods\obj\Debug\Methods.csproj.CoreCompileInputs.cache
+C:\Users\tufan\OneDrive\Belgeler\csharp-basics\Methods\Methods\obj\Debug\Methods.exe
+C:\Users\tufan\OneDrive\Belgeler\csharp-basics\Methods\Methods\obj\Debug\Methods.pdb
